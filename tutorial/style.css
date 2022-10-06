@@ -1,0 +1,38 @@
+.container-fluid{
+    background-color: aliceblue;
+    height: 100vh;
+}
+.container{
+   position: relative;
+   top: 20%;
+}
+.container-header h1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+.container-header p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.arrow{
+    padding-left: 50px;
+}
+.container{
+    height: 80vh !important;
+}
+.testimonials{
+    padding-top: 50px;
+}
+.button1
+{
+    text-align: center;
+    padding-top: 70px;
+}
+.carousel{
+    height: 100vh;
+}
+.fa{
+    color: yellow;
+}
